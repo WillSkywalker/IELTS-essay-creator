@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# IETLS Writing Essay Creator
+# IELTS Writing Essay Creator
 # License: Apache
 
 import random, re, phrases
