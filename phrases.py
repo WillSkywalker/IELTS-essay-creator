@@ -1,6 +1,8 @@
 sentencesKind = ['b', 'p', 'c', 't']
 sentencesExpression = ['n', 'c', 'r', 's', 't']
 wordsProvide = ['makes up', 'takes up', 'accounts for', 'represents', 'provides']
+wordsProvideInfinitive = ['make up', 'take up', 'account for', 'represent', 'provide']
 phrasesBegin_b = [ 'The percentage of', 'The rate of', 'The proportion of']
 subordinateClause = ['which takes the first place.', 'taking the first place.', 'which makes up the largest one.', 'making up the largest one.']
 wordsNumber = ['number', 'quantity', 'amount', 'data', 'statistic', 'figure']
+wordsTotal = ['total', 'added', 'combined', 'entire', 'overall']
